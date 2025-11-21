@@ -1,18 +1,11 @@
 # PHONESTORE
-### Table of Contents
 
-- [Abstract](#abstract)
-- [Software Requirements](#software-requirements)
-- [Instructions](#instructions)
-- [Screenshots](#screenshots)
-- [Reference](#reference)
-
-## ABSTRACT
+## GIỚI THIỆU
 <p align="justify">Trong bối cảnh chuyển đổi số phát triển mạnh mẽ, thương mại điện tử đã trở thành giải pháp hiệu quả giúp doanh nghiệp mở rộng thị trường và cải thiện trải nghiệm khách hàng. Vì thế, việc ứng dụng công nghệ Web và cơ sở dữ liệu vào hoạt động kinh doanh ngày càng phổ biến. Đặc biệt đối với lĩnh vực kinh doanh điện thoại di động, với nhu cầu sử dụng cao và thay đổi nhanh, việc xây dựng một website bán điện thoại tích hợp các công nghệ phù hợp có ý nghĩa quan trọng giúp hỗ trợ quản lý sản phẩm, xử lý đơn hàng và thanh toán một cách hiệu quả. Đây cũng là hướng đi cần thiết để đáp ứng thói quen mua sắm trực tuyến ngày càng phổ biến của người dùng hiện nay.</p>
 
 <p align="justify">Từ thực tế đó, đề tài “Nghiên cứu và xây dựng website bán điện thoại” được nhóm thực hiện với mong muốn xây dựng và phát triển một trang web có khả năng quản lý sản phẩm, cho phép người dùng thực hiện các tác vụ để xem và mua điện thoại trực tuyến một cách dễ dàng. Đề tài giúp nhóm hiểu hơn về các kiến thức lập trình Web, đồng thời hướng đến mục tiêu hỗ trợ khách hàng tiếp cận sản phẩm hơn, rút ngắn thời gian mua sắm và nâng cao hiệu quả kinh doanh cho doanh nghiệp.</p>
 
-## SOFTWARE REQUIREMENTS
+## CÔNG NGHỆ SỬ DỤNG
   <li> <b> Frontend : </b>
        <p align="left"> 
           <a href="https://www.w3.org/html/" target="_blank" > 
@@ -40,7 +33,7 @@
    </li>
   </ul>
     
-## INSTRUCTIONS
+## CÁCH HOẠT ĐỘNG
 
 1. Tải và cài đặt <a href="https://www.apachefriends.org/download.html">XAMPP</a>
 
@@ -64,21 +57,19 @@
    
    `mật khẩu:  adminlatui`
    
-## Hình Minh Hoạ
+## HÌNH MINH HỌA
 
 <details>
 <summary><b> Trang chủ: </b></summary>
 <br>
 
-![index](/images/screenshots/home.png)
+![index](/HINH/anh/home.png)
 
-![index](/images/screenshots/rooms.png)
+![index](/HINH/anh/home_sidebar.png)
 
-![index](/images/screenshots/others.png)
+![index](/HINH/anh/detail.png)
 
-![index](/images/screenshots/contact.png)
-
-![index](/images/screenshots/rooms-details.png)
+![index](/HINH/anh/search.png)
 
 </details>
 
@@ -88,7 +79,7 @@
 <summary><b> Đăng ký: </b></summary>
 <br>
 
-![register](/images/screenshots/register.png)
+![register](/HINH/anh/register.png)
 
 </details>
 
@@ -98,7 +89,7 @@
 <summary><b> Đăng nhập: </b></summary>
 <br>
 
-![login](/images/screenshots/login.png)
+![login](/HINH/anh/login.png)
 
 </details>
 
@@ -108,9 +99,27 @@
 <summary><b> Hồ sơ người dùng: </b></summary>
 <br>
 
-![profile](/images/screenshots/profile.png)
+![profile](/HINH/anh/profile.png)
 
-![booking](/images/screenshots/booking.png)
+![orders](/HINH/anh/orders.png)
+
+![orders_detail](/HINH/anh/orders_detail.png)
+
+![orders](/HINH/anh/review.png)
+
+</details>
+
+<br>
+
+<details>
+<summary><b> Đặt hàng: </b></summary>
+<br>
+
+![cart_view](/HINH/anh/cart_view.png)
+
+![cart_checkout](/HINH/anh/cart_checkout.png)
+
+![success](/HINH/anh/success.png)
 
 </details>
 
@@ -120,18 +129,16 @@
 <summary><b> Admin Dashboard: </b></summary>
 <br>
 
-![admin](/images/screenshots/admin.png)
+![admin](/HINH/anh/loginadmin.png)
 
-![admin](/images/screenshots/admin-dashboard.png)
+![admin](/HINH/anh/admin.png)
 
-![admin](/images/screenshots/admin-rooms.png)
+![admin](/HINH/anh/hsx.png)
 
-![admin](/images/screenshots/new-bookings.png)
+![admin](/HINH/anh/phone.png)
 
-![admin](/images/screenshots/page-setting.png)
+![admin](/HINH/anh/orders_admin.png)
+
+![admin](/HINH/anh/buyers.png)
 
 </details>
-
-## References
-
-<a id="reference" href="https://github.com/tj-webdev/Hotel-Booking-Website-Assets"> Hotel-Booking-Website-Assets </a>
